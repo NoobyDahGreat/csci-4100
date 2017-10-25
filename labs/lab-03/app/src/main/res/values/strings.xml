@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab-03</string>
+    <string name="login">Login</string>
+    <string name="about">About</string>
+    <string name="mainLabel">GREETINGS TRAVELER!</string>
+    <string name="textMessage">This is an uncreative message to a user describing my application.</string>
+    <string name="finish">Finish</string>
+    <string name="user">Username:</string>
+    <string name="pass">Password:</string>
+</resources>
